@@ -1,0 +1,29 @@
+.bg-blur {
+    background-color: transparent !important;
+}
+
+/* .navbar-scrolled .nav-item a,
+.navbar-scrolled .nav-item {
+    color: #3548D3;
+    transition: color 0.3s ease;
+    background: #000;
+} */
+
+.text-logo {
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    letter-spacing: 10px;
+    text-align: center;
+    cursor: default;
+}
+
+.text-invert {
+    color: #F9F6EE;
+}
+
+@media screen and (max-width: 1024px) {
+    .text-logo {
+        font-size: 30px;
+    }
+}

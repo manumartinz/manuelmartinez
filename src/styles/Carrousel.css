@@ -1,0 +1,48 @@
+.carousel-wrapper {
+    overflow: hidden;
+    width: 100%;
+    position: relative;
+    height: 100px;
+}
+
+.carousel-track {
+    display: flex;
+    width: fit-content;
+    animation: scroll infinite linear 20s;
+}
+
+.carousel-track-reverse {
+    display: flex;
+    width: fit-content;
+    animation: scroll-reverse infinite linear 20s;
+}
+
+.carousel-item {
+    flex: 0 0 auto;
+    padding: 0 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.carousel-item img {
+    max-height: 80px;
+    width: auto;
+}
+
+/* Animación infinita */
+@keyframes scroll {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(-50%);
+    }
+}
+
+@keyframes scroll-reverse {
+    0% {
+        transform: translateX(-50%);
+    }
+}

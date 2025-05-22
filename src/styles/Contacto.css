@@ -1,0 +1,7 @@
+.bg-profile {
+  background-image: url('../assets/images/profile.png');
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+  border-radius: 8px;
+}

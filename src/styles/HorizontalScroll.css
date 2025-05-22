@@ -1,0 +1,27 @@
+.bg-fanken {
+    background-image: url("../assets/images/bg-fanken.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bg-encode {
+    background-image: url("../assets/images/bg-encode.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bg-tokelab {
+    background-image: url("../assets/images/bg-tokelab.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bg-ucc {
+    background-image: url("../assets/images/bg-ucc.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}

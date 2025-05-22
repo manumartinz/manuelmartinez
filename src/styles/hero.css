@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&display=swap');
+
+.bg-hero {
+    background-image: url("../assets/images/bg-gradient.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 97vh;
+}
+
+h1,
+h2 {
+    color: #F9F6EE;
+}
+
+.bg-1 {
+    background-color: #FFFFFF;
+    width: 200px;
+    height: 670px;
+    border-radius: 90px;
+    margin-left: -60px;
+    z-index: 10;
+}
+
+.bg-2 {
+    background-color: #EBEBEB;
+    width: 200px;
+    height: 670px;
+    border-radius: 90px;
+    margin-left: -60px;
+    z-index: 9;
+}
+
+.bg-3 {
+    background-color: #D7D7D7;
+    width: 200px;
+    height: 670px;
+    border-radius: 90px;
+    margin-left: -60px;
+    z-index: 8;
+}
+
+.bg-4 {
+    background-color: #C3C3C3;
+    width: 200px;
+    height: 670px;
+    border-radius: 90px;
+    margin-left: -60px;
+    z-index: 7;
+}
+
+.bg-5 {
+    background-color: #AFAFAF;
+    width: 200px;
+    height: 670px;
+    border-radius: 90px;
+    margin-left: -60px;
+    z-index: 6;
+}
+
+.bg-6 {
+    background-color: #9B9B9B;
+    width: 200px;
+    height: 670px;
+    border-radius: 90px;
+    margin-left: -60px;
+    z-index: 5;
+}
+
+.bg-7 {
+    background-color: #878787;
+    width: 200px;
+    height: 670px;
+    border-radius: 90px;
+    margin-left: -60px;
+    z-index: 4;
+}
+
+.bg-8 {
+    background-color: #737373;
+    width: 200px;
+    height: 670px;
+    border-radius: 90px;
+    margin-left: -60px;
+    z-index: 3;
+}
+
+.bg-9 {
+    background-color: #5F5F5F;
+    width: 200px;
+    height: 670px;
+    border-radius: 90px;
+    margin-left: -60px;
+    z-index: 2;
+}
+
+.bg-10 {
+    background-color: #4B4B4B;
+    width: 200px;
+    height: 670px;
+    border-radius: 90px;
+    margin-left: -60px;
+    z-index: 1;
+}
