@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/nombre-del-repo/static/css/main.5d3362c1.css",
+    "main.js": "/nombre-del-repo/static/js/main.18e364bc.js",
+    "static/js/453.1407b060.chunk.js": "/nombre-del-repo/static/js/453.1407b060.chunk.js",
+    "static/media/bg-encode.png": "/nombre-del-repo/static/media/bg-encode.8a0c40889d3c827c3ffd.png",
+    "static/media/bg-tokelab.png": "/nombre-del-repo/static/media/bg-tokelab.c16667b33fe023c6d23d.png",
+    "static/media/bg-fanken.png": "/nombre-del-repo/static/media/bg-fanken.ef8b04bb10d503440640.png",
+    "static/media/bg-ucc.png": "/nombre-del-repo/static/media/bg-ucc.92b718d436bf85a057a3.png",
+    "static/media/bg-gradient.png": "/nombre-del-repo/static/media/bg-gradient.698457d1baa2138ed2f1.png",
+    "static/media/fanken.png": "/nombre-del-repo/static/media/fanken.275712f918d2a7dfcd37.png",
+    "static/media/tokelab.png": "/nombre-del-repo/static/media/tokelab.e026e047fb4dbc1a0b45.png",
+    "static/media/encode.png": "/nombre-del-repo/static/media/encode.cf7aec4f7a1c44925270.png",
+    "static/media/profile.png": "/nombre-del-repo/static/media/profile.646893ccb506d202b68a.png",
+    "static/media/ucc.png": "/nombre-del-repo/static/media/ucc.e5e3bc8a757b31060aea.png",
+    "static/media/react.png": "/nombre-del-repo/static/media/react.fde5d9644a185a7ecc41.png",
+    "static/media/laravel.png": "/nombre-del-repo/static/media/laravel.751bae761b2235ce0080.png",
+    "static/media/graphql.png": "/nombre-del-repo/static/media/graphql.27f882bc958d6f95fc05.png",
+    "static/media/nest.png": "/nombre-del-repo/static/media/nest.92e5bfbef79f5d7b826b.png",
+    "static/media/angular.png": "/nombre-del-repo/static/media/angular.8c5f25904ade810fbdd8.png",
+    "static/media/github.png": "/nombre-del-repo/static/media/github.8eed675f39b306229640.png",
+    "static/media/nodejs.png": "/nombre-del-repo/static/media/nodejs.f297f1feda25652778c2.png",
+    "static/media/express.png": "/nombre-del-repo/static/media/express.46414e1735963c2e0be8.png",
+    "static/media/next.png": "/nombre-del-repo/static/media/next.dd108da38e729bb7544d.png",
+    "static/media/css.png": "/nombre-del-repo/static/media/css.f245cc5e0bf95d9b177f.png",
+    "static/media/php.png": "/nombre-del-repo/static/media/php.3f299f34d1032f875171.png",
+    "static/media/html.png": "/nombre-del-repo/static/media/html.83d84e55903c742f296e.png",
+    "index.html": "/nombre-del-repo/index.html",
+    "main.5d3362c1.css.map": "/nombre-del-repo/static/css/main.5d3362c1.css.map",
+    "main.18e364bc.js.map": "/nombre-del-repo/static/js/main.18e364bc.js.map",
+    "453.1407b060.chunk.js.map": "/nombre-del-repo/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d3362c1.css",
+    "static/js/main.18e364bc.js"
+  ]
+}
